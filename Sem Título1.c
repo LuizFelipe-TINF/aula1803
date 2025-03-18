@@ -1,4 +1,4 @@
 int main()
 {
-printf("Hello world");
+printf("Bem vindo ao laboratorio de programacao 2");
 }
